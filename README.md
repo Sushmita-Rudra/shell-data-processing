@@ -11,6 +11,7 @@
 *  The command used to store the final output to result.txt file ```tr ' ' '\12' < data.txt | sort | uniq -c | sort -nr > result.txt``` 
 
 ## Bash 
+* sort --help will give the list of all bash commands. 
 * When up arrow is hit, bash shell will cycle through the history of commands used.
 * -n flag means compare according to string numerical value
 * -r flag means reverse the result of comparisions.
